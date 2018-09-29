@@ -1,0 +1,22 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Tyler Jackson Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerjacksondev/personal-website.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "tylerjacksondev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerjacksondev/personal-website/issues"
+  },
+  "homepage": "https://github.com/tylerjacksondev/personal-website#readme"
+}
